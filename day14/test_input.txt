@@ -1,0 +1,18 @@
+NNCB
+
+CH -> B
+HH -> N
+NN -> C
+NH -> C
+HB -> C
+HC -> B
+HN -> C
+BH -> H
+NB -> B
+BN -> B
+BB -> N
+CB -> H
+BC -> B
+CC -> N
+NC -> B
+CN -> C
